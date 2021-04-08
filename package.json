@@ -1,0 +1,24 @@
+{
+  "name": "sampreeth-random",
+  "version": "1.0.0",
+  "description": "npm package to suggest strong password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampreethD/my-npm-package.git"
+  },
+  "keywords": [
+    "random",
+    "text",
+    "npm"
+  ],
+  "author": "Sampreeth D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sampreethD/my-npm-package/issues"
+  },
+  "homepage": "https://github.com/sampreethD/my-npm-package#readme"
+}
